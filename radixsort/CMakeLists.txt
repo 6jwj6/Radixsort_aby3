@@ -15,6 +15,9 @@ include_directories(/home/jwj/aby3/thirdparty/unix/include)
 # add_executable(add_example radix_sort_si.cpp)
 add_executable(add_example radix_sort_si2.cpp)
 
+# add_executable(add_example si_sb_mult_compare.cpp)
+# add_executable(add_example radix_sort_si20.cpp)
+
 # add_executable(add_example reshare_test.cpp)
 
 #
